@@ -6,7 +6,8 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-17.0+-61DAFB.svg)](https://react.dev/)
 
-**Battle-tested across 4+ production mini-apps** with 100k+ users:
+**Battle-tested across 5+ production mini-apps** with 100k+ users:
+- ☕ **[Coffee Toss](https://coffee-toss.apps.tossmini.com)** — Coffee mini-app, **#1 ranking on Toss** 🏆
 - 🔮 [사주박사](https://sajubaksa.apps.tossmini.com) — Korean fortune telling
 - 🍗 [치킨준닭](https://getchicken-kr.apps.tossmini.com) — Chicken delivery rewards
 - 🎰 [또로또](https://ttolotto.apps.tossmini.com) — Lottery
