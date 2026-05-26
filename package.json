@@ -1,0 +1,41 @@
+{
+  "name": "react-toss-mini-app",
+  "version": "0.1.0",
+  "description": "React hooks and utilities for building Toss Mini-Apps (앱인토스) — auth, ads, points, share, navigation",
+  "keywords": [
+    "toss",
+    "toss-mini-app",
+    "apps-in-toss",
+    "react",
+    "hooks",
+    "korea",
+    "fintech"
+  ],
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint src --ext .ts,.tsx",
+    "prepublishOnly": "npm run build"
+  },
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "@apps-in-toss/web-framework": "*"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "typescript": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goldmine79miles/react-toss-mini-app.git"
+  },
+  "author": "Donghyun An <goldmine79miles@gmail.com>",
+  "license": "MIT"
+}
