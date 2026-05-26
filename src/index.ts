@@ -4,11 +4,12 @@
  * React hooks and utilities for building Toss Mini-Apps (앱인토스).
  *
  * Battle-tested across 5+ production mini-apps:
- * - coffee-toss — Coffee mini-app, #1 ranking on Toss 🏆
- * - sajubaksa (사주박사) — Korean fortune telling
- * - getchicken-kr (치킨준닭) — Chicken delivery rewards
- * - ttolotto (또로또) — Lottery
- * - daisso (다이쏘) — Dashboard
+ * - 공짜커피 (Free Coffee) — #1 ranked Toss Mini-App 🏆
+ *   https://minion.toss.im/lWMEDzrv
+ * - 사주박사 — Korean fortune telling
+ * - 치킨준닭 — Chicken delivery rewards
+ * - 또로또 — Lottery
+ * - 다이쏘 — Dashboard
  *
  * @see https://docs.apps.tossmini.com — Official Toss docs
  * @see https://github.com/goldmine79miles/react-toss-mini-app — Repo

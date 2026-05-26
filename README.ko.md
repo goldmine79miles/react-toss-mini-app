@@ -9,11 +9,11 @@
 [English](./README.md) | **한국어**
 
 **5개 프로덕션 미니앱**에서 검증된 라이브러리 (합산 사용자 10만명+):
-- ☕ **[Coffee Toss](https://coffee-toss.apps.tossmini.com)** — 커피 미니앱, **토스 미니앱 1위** 🏆
-- 🔮 [사주박사](https://sajubaksa.apps.tossmini.com) — 한국 전통 사주 풀이
-- 🍗 [치킨준닭](https://getchicken-kr.apps.tossmini.com) — 치킨 배달 리워드
-- 🎰 [또로또](https://ttolotto.apps.tossmini.com) — 복권
-- 📊 [다이쏘](https://daisso.apps.tossmini.com) — 대시보드
+- ☕ **[공짜커피](https://minion.toss.im/lWMEDzrv)** — 커피 미니앱, **토스 미니앱 1위** 🏆
+- 🔮 사주박사 — 한국 전통 사주 풀이
+- 🍗 치킨준닭 — 치킨 배달 리워드
+- 🎰 또로또 — 복권
+- 📊 다이쏘 — 대시보드
 
 ---
 

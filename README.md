@@ -7,11 +7,11 @@
 [![React](https://img.shields.io/badge/React-17.0+-61DAFB.svg)](https://react.dev/)
 
 **Battle-tested across 5+ production mini-apps** with 100k+ users:
-- ☕ **[Coffee Toss](https://coffee-toss.apps.tossmini.com)** — Coffee mini-app, **#1 ranking on Toss** 🏆
-- 🔮 [사주박사](https://sajubaksa.apps.tossmini.com) — Korean fortune telling
-- 🍗 [치킨준닭](https://getchicken-kr.apps.tossmini.com) — Chicken delivery rewards
-- 🎰 [또로또](https://ttolotto.apps.tossmini.com) — Lottery
-- 📊 [다이쏘](https://daisso.apps.tossmini.com) — Dashboard
+- ☕ **[공짜커피 (Free Coffee)](https://minion.toss.im/lWMEDzrv)** — Coffee mini-app, **#1 ranking on Toss** 🏆
+- 🔮 사주박사 — Korean fortune telling
+- 🍗 치킨준닭 — Chicken delivery rewards
+- 🎰 또로또 — Lottery
+- 📊 다이쏘 — Dashboard
 
 ---
 
